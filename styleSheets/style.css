@@ -1,0 +1,13 @@
+#background{
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+}
+
+#main-block{
+    margin-top: 5%;
+    background-color: rgb(207, 206, 182);
+    padding: 30px;
+    border-radius: 5px;
+}
